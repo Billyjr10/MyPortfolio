@@ -207,6 +207,13 @@ body {font-family: Arial, Helvetica, sans-serif;
         background-image: url(shape.png);
         background-repeat: repeat;
   }
+
+.quasar {
+    margin-bottom: 50px;
+}
+.appquasar{
+    margin-bottom: 50px;
+}
   
   .container {
     /* Ajouter box-sizing */
@@ -224,6 +231,9 @@ body {font-family: Arial, Helvetica, sans-serif;
   h1  {
     color: #ffc800;
     width: 100%;
+  }
+  .projets{
+      background-image: url(shape.png);
   }
         
   @media(max-width: 500px){
